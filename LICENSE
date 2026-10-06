@@ -1,0 +1,9 @@
+my-humanize is licensed under the Creative Commons Attribution-ShareAlike 4.0
+International License (CC BY-SA 4.0): https://creativecommons.org/licenses/by-sa/4.0/
+
+It is an adaptation of "Wikipedia:Signs of AI writing" by WikiProject AI Cleanup and other
+Wikipedia contributors (https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing),
+retrieved 2026-10-06, which is licensed under CC BY-SA 4.0. Changes: content condensed,
+paraphrased, reorganized, and turned into rewriting instructions for AI agents.
+
+The scripts in scripts/ are additionally available under the MIT License.
